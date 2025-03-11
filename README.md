@@ -93,7 +93,7 @@ Feel free to **fork** this repository, submit **pull requests**, or report **iss
 
 🔹 **Your Name** – Pranav Thorat  
 🔹 **LinkedIn** – [Your Profile](#) *(Add your LinkedIn URL)*  
-🔹 **GitHub** – [Your GitHub](#) *(Add your GitHub URL)*  
+🔹 **GitHub** – [Your GitHub](https://github.com/PranavThorat1432) 
 
 ⭐ If you like this project, don't forget to **star** this repository! 🚀✨  
 
