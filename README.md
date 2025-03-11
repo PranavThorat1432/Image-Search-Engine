@@ -60,7 +60,8 @@ let accessKey = "YOUR_ACCESS_KEY_HERE";
 
 ## 📸 Screenshot  
 
-![Image Search Engine Preview](https://via.placeholder.com/1000x500) *(Replace with actual screenshots)*  
+![img1](https://github.com/user-attachments/assets/096d6e4b-acf9-465c-818a-f18f6949e2d0)
+ 
 
 ---
 
